@@ -47,7 +47,7 @@ form input {
   display: block;
   text-align: center;
   font-size: 18px;
-  color: white;
+  color: #c19733;
   -webkit-transition-duration: 0.25s;
           transition-duration: 0.25s;
   font-weight: 300;
@@ -58,7 +58,7 @@ form input:hover {
 form input:focus {
   background-color: white;
   width: 300px;
-  color: #53e3a6;
+  color: #c19733;
 }
 form button {
   -webkit-appearance: none;
